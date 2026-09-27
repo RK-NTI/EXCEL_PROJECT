@@ -1,3 +1,3 @@
 # EXCEL_PROJECT
 # ECOMMERCE SALES ANALYSIS
-I have learnt recently learn this project and find meaningful business insights and make-decision.
+I have recently learn this project and find meaningful business insights and make-decision.
